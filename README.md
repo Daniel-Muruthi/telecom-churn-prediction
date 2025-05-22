@@ -64,5 +64,3 @@ These metrics indicate a balanced and robust model, effectively distinguishing b
 For further information or inquiries, please contact [Daniel Muruthi](mailto:adinomuruthi1@gmail.com).
 
 ---
-
-*Note: Replace `adinomuruthi1@gmail.com` with your actual contact email if different.*
